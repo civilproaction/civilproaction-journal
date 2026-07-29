@@ -1,49 +1,24 @@
-# CivilProAction Journal
+---
+title: Journal Profile
+nav_order: 3
+---
 
-## Full Title
+# Journal Profile
 
-CivilProAction Journal
+**Journal Name:** CivilProAction Journal
 
-## Short Title
+**Publisher:** CivilProAction
 
-CPAJ
+**Access:** Open Access
 
-## Publisher
+**Peer Review:** Double-Blind
 
-CivilProAction
+**Publication Frequency:** Continuous Publication
 
-## Publication Model
+**Language:** English
 
-Open Access
+**ISSN:** Coming Soon
 
-## Peer Review
+**DOI Registration:** Planned via Crossref
 
-Double-blind Peer Review
-
-## Publication Frequency
-
-Quarterly (4 issues per year)
-
-## Language
-
-English
-
-## DOI
-
-To be implemented
-
-## ISSN
-
-To be obtained
-
-## Archive
-
-Zenodo
-
-## Journal Management
-
-Open Journal Systems (OJS)
-
-## Website
-
-GitHub Pages
+**Archiving:** GitHub + Zenodo
