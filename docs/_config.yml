@@ -1,7 +1,10 @@
 title: CivilProAction Journal
 description: Open Access Journal for Civil Society and Sustainable Development
 
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+
+url: https://civilproaction.github.io
+baseurl: /civilproaction-journal
 
 color_scheme: light
 
@@ -9,7 +12,12 @@ search_enabled: true
 
 heading_anchors: true
 
-baseurl: "/civilproaction-journal"
-url: "https://civilproaction.github.io"
+back_to_top: true
 
-markdown: kramdown
+footer_content: "© 2026 CivilProAction Journal"
+
+aux_links:
+  GitHub Repository:
+    - https://github.com/civilproaction/civilproaction-journal
+
+nav_sort: case_sensitive
