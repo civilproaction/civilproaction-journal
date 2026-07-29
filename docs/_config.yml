@@ -1,8 +1,12 @@
 title: CivilProAction Journal
-description: Open Access Peer-Reviewed Journal on Civil Society, NGOs and Development
+description: Open Access Journal for Civil Society and Sustainable Development
+
 theme: minima
+
+baseurl: "/civilproaction-journal"
+url: "https://civilproaction.github.io"
+
+markdown: kramdown
 
 plugins:
   - jekyll-feed
-
-markdown: kramdown
