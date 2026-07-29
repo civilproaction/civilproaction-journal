@@ -1,11 +1,12 @@
+---
+title: Publication Ethics
+nav_order: 5
+---
+
 # Publication Ethics
 
-CivilProAction Journal follows internationally recognized principles of publication ethics.
+CivilProAction Journal follows internationally accepted publication ethics.
 
-The journal is committed to:
+Authors must ensure originality, proper citation, ethical approval where applicable, and disclosure of conflicts of interest.
 
-- Academic integrity
-- Transparent peer review
-- Plagiarism prevention
-- Conflict of interest disclosure
-- Ethical research practices
+Editors and reviewers follow a confidential and impartial review process.
