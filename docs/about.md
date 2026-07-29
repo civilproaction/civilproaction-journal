@@ -1,14 +1,10 @@
-# About CivilProAction Journal
+---
+title: About
+nav_order: 2
+---
 
-CivilProAction Journal is an international open-access journal dedicated to publishing research and practice related to civil society organizations (CSOs), non-governmental organizations (NGOs), community development, humanitarian action, governance, and sustainable development.
+# About
 
-## Vision
+CivilProAction Journal is an international, peer-reviewed, open-access journal dedicated to advancing research, policy, and practice in civil society, governance, humanitarian action, and sustainable development.
 
-To become a trusted global platform for high-quality research and knowledge sharing that strengthens civil society and promotes sustainable development.
-
-## Mission
-
-- Publish high-quality peer-reviewed articles.
-- Promote ethical and open-access publishing.
-- Connect researchers and practitioners.
-- Support evidence-based policy and practice.
+Our mission is to provide a trusted platform for researchers, practitioners, policymakers, and development professionals to disseminate high-quality scholarly work.
