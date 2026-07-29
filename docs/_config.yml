@@ -1,0 +1,8 @@
+title: CivilProAction Journal
+description: Open Access Peer-Reviewed Journal on Civil Society, NGOs and Development
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
