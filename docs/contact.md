@@ -1,10 +1,10 @@
+---
+title: Contact
+nav_order: 7
+---
+
 # Contact
 
-**CivilProAction Journal**
+**Email:** editor@civilproaction.org
 
-Email: coming soon
-
-Website: coming soon
-
-GitHub Repository:
-https://github.com/civilproaction/civilproaction-journal
+For manuscript submissions, editorial inquiries, and partnerships, please contact the editorial office.
